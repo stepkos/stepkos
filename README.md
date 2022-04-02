@@ -1,5 +1,10 @@
 # Hi there 👋 I'am Jacob and I'am Full-Stack Developer
 
+## Find me on
+
+Instagram: [stepkos](https://www.instagram.com/stepkos/) <br>
+E-Mail: jakub.stepkowski.programming@gmail.com
+
 ## Mainly I work with
 
 ### Languages
