@@ -1,10 +1,5 @@
 # Hi there 👋 I'am Jacob and I'am Full-Stack Developer
 
-## Find me on
-
-Instagram: [stepkos](https://www.instagram.com/stepkos/) <br>
-E-Mail: jakub.stepkowski.programming@gmail.com
-
 ## Mainly I work with
 
 ### Languages
@@ -36,6 +31,10 @@ E-Mail: jakub.stepkowski.programming@gmail.com
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
   
+## Find me on
+
+Instagram: [stepkos](https://www.instagram.com/stepkos/) <br>
+E-Mail: jakub.stepkowski.programming@gmail.com
 
 
 <!--
