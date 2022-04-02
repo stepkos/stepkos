@@ -33,8 +33,8 @@
   
 ## Find me on
 
-Instagram: [stepkos](https://www.instagram.com/stepkos/) <br>
-E-Mail: jakub.stepkowski.programming@gmail.com
+<b> Instagram: </b> [stepkos](https://www.instagram.com/stepkos/) <br>
+<b> E-Mail: </b> jakub.stepkowski.programming@gmail.com 
 
 
 <!--
