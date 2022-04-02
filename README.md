@@ -1,4 +1,4 @@
-# Hi there 👋 I'am Jacob and I'am full-stack developer
+# Hi there 👋 I'am Jacob and I'am Full-Stack Developer
 
 ## Mainly I work with:
 
