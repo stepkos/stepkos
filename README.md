@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stepkos&" alt="stepkos" /></p>
+
 <h2 align="left">Mainly I work with</h2>
 <h3 align="left">Languages</h3>
 <p align="left"> 
@@ -48,4 +50,3 @@
     <a href="https://instagram.com/stepkos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stepkos" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stepkos&" alt="stepkos" /></p>
