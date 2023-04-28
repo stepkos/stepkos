@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
+- 💻 I graduated from a technical college with a programmer technician profile
+- 🎓 I’m Applied Computer Science Student at the Wroclaw University of Science and Technology
+- 📫 How to reach me: jakub.stepkowski.programming@gmail.com
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stepkos&" alt="stepkos" /></p>
 
 <h2 align="left">Mainly I work with</h2>
