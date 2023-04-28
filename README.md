@@ -44,8 +44,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/aaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaaaaa" height="30" width="40" /></a>
-    <a href="https://instagram.com/bbbbbbb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bbbbbbb" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/jakub-st%C4%99pkowski-463a05272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub-st%C4%99pkowski-463a05272" height="30" width="40" /></a>
+    <a href="https://instagram.com/stepkos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stepkos" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stepkos&" alt="stepkos" /></p>
