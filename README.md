@@ -1,4 +1,4 @@
-<h1>Hi 👋 Im Jacob</h1>
+<h1>Hi 👋 I'm Jacob</h1>
 <h3>A passionate full-stack developer</h3>
 
 - 💻 I graduated from a technical college with a programmer technician profile
