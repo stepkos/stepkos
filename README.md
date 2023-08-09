@@ -1,8 +1,8 @@
-<h1>Hi 👋, I'm Jacob</h1>
+<h1>Hi 👋 Im Jacob</h1>
 <h3>A passionate full-stack developer</h3>
 
 - 💻 I graduated from a technical college with a programmer technician profile
-- 🎓 I’m Applied Computer Science Student at the Wroclaw University of Science and Technology
+- 🎓 Currently Applied Computer Science Student at the Wroclaw University of Science and Technology
 - 📫 You can reach me by jakub.stepkowski.programming@gmail.com
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stepkos&" alt="stepkos" /></p>
@@ -48,7 +48,7 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/jakub-stepkowski/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub-st%C4%99pkowski-463a05272" height="30" width="40" /></a>
     <a href="https://instagram.com/stepkos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stepkos" height="30" width="40" /></a>
