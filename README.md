@@ -1,8 +1,8 @@
 <h1>Hi 👋 I'm Jacob</h1>
 <h3>A passionate full-stack developer</h3>
 
-- 💻 I graduated from a technical college with a programmer technician profile
-- 🎓 Currently Applied Computer Science Student at the Wroclaw University of Science and Technology
+- 🎓 Applied Computer Science Student at the Wroclaw University of Science and Technology
+- 💻 I graduated from a Technical High School with a programmer technician profile
 - 📫 You can reach me by jakub.stepkowski.programming@gmail.com
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stepkos&" alt="stepkos" /></p>
