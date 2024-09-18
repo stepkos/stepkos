@@ -2,11 +2,6 @@
 
 ![General Kenobi](https://imgur.com/L1BvKWT.gif)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/C0XKg74">
-    <a href="//imgur.com/a/C0XKg74">Meme of the Decade?</a>
-</blockquote>
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 Jacob Here - Passionate Full-Stack Developer and Python Lover <3
 
 - 🐍 Professionally Mid Python Developer
