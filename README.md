@@ -1,5 +1,7 @@
 # Hello There
 
+![General Kenobi](https://imgur.com/L1BvKWT)
+
 Jacob Here - Passionate Full-Stack Developer and Python Lover <3
 
 - 🐍 Professionally Mid Python Developer
@@ -22,7 +24,8 @@ Jacob Here - Passionate Full-Stack Developer and Python Lover <3
 - **Other:** Docker/Docker Compose, Selenium, Unity, Android Studio
 
 ### Other Tools
-- Git/GitHub, Bash/Unix, Postman
+- Git/GitHub, Bash/Unix
+- JetBrains, VS Code, Postman
 - Figma, Canva, Photoshop/GIMP
 - Jira, Confluence
 
