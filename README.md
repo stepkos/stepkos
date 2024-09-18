@@ -8,34 +8,28 @@ Jacob Here - Passionate Full-Stack Developer and Python Lover <3
 - 📫 You can reach me by jakub.stepkowski.programming@gmail.com
 
 ## Tech Stack 🛠️
-### Languages
-- Python
-- Java
-- JavaScript
-- C#
-- C / C++
-- PHP
-- SQL
-- HTML/CSS
-- Scala
 
-### Frameworks
-- Django / DRF
-- FastAPI
-- Flask
-- Selenium
-- React
-- Laravel
-- .NET
-- Android
-- Unity
+### Languages 
+**Python**, Java, JavaScript, C#, C/C++, PHP, SQL, Scala
+
+### Technologies
+- **Backend:** Django/DRF, Celery/Redis, FastAPI, Flask, Laravel
+- **Frontend:** React, HTML, CSS
+- **DA/ML:** Pandas, Numpy, Matplotlib, Scikit-Learn, PyTorch
+- **Data Engineering:** Apache Spark, dbt (Data Build Tool), Snowflake
+- **Tests:** Pytest, unittest
+- **Databases:** PostgreSQL, MS SQL Server, MySQL, SQLite, MongoDB
+- **Other:** Selenium, Unity, Android Studio
 
 ### Other Tools
 - Git / GitHub
 - Bash / Unix
+- Docker / Docker Compose
+- Amazon S3
 - Postman
 - Figma
 - Photoshop / GIMP
+- Jira, Confluence
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
