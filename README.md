@@ -1,6 +1,6 @@
 # Hello There
 
-![General Kenobi](https://imgur.com/L1BvKWT)
+![General Kenobi](https://imgur.com/L1BvKWT.gif)
 
 Jacob Here - Passionate Full-Stack Developer and Python Lover <3
 
