@@ -2,7 +2,7 @@
 
 <!--- ![General Kenobi](https://imgur.com/L1BvKWT.gif) --->
 
-Jacob Here - Passionate Full-Stack Developer and Python Lover <3
+**Jacob Here - Passionate Full-Stack Developer and Python Lover <3**
 
 - 🐍 Professionally Mid Python Developer
 - 🎓 Applied Computer Science Student at the [Wroclaw University of Science and Technology](https://www.pwr.edu.pl/)
