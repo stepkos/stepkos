@@ -10,7 +10,7 @@ Jacob Here - Passionate Full-Stack Developer and Python Lover <3
 ## Tech Stack 🛠️
 
 ### Languages 
-**Python**, Java, JavaScript, C#, C/C++, PHP, SQL, Scala
+**Python**, Java, JavaScript, SQL, C#, C/C++, PHP, Scala
 
 ### Technologies
 - **Backend:** Django/DRF, Celery/Redis, FastAPI, Flask, Laravel
@@ -18,17 +18,12 @@ Jacob Here - Passionate Full-Stack Developer and Python Lover <3
 - **DA/ML:** Pandas, Numpy, Matplotlib, Scikit-Learn, PyTorch
 - **Data Engineering:** Apache Spark, dbt (Data Build Tool), Snowflake
 - **Tests:** Pytest, unittest
-- **Databases:** PostgreSQL, MS SQL Server, MySQL, SQLite, MongoDB
-- **Other:** Selenium, Unity, Android Studio
+- **Databases:** PostgreSQL, Amazon S3, MS SQL Server, MySQL, SQLite, MongoDB
+- **Other:** Docker/Docker Compose, Selenium, Unity, Android Studio
 
 ### Other Tools
-- Git / GitHub
-- Bash / Unix
-- Docker / Docker Compose
-- Amazon S3
-- Postman
-- Figma
-- Photoshop / GIMP
+- Git/GitHub, Bash/Unix, Postman
+- Figma, Canva, Photoshop/GIMP
 - Jira, Confluence
 
 <h3 align="left">Connect with me</h3>
