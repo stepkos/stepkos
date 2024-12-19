@@ -18,7 +18,7 @@
 - **Backend:** Django/DRF, Celery/Redis, FastAPI, Flask, Laravel
 - **Frontend:** React, HTML, CSS
 - **DA/ML:** Pandas, Numpy, Matplotlib, Scikit-Learn, PyTorch
-- **Data Engineering:** Apache Spark, dbt (Data Build Tool), Snowflake
+- **Data Engineering:** Snowflake, dbt (Data Build Tool), Apache Spark, Agile Data Engine
 - **Tests:** Pytest, unittest
 - **Databases:** PostgreSQL, Amazon S3, MS SQL Server, MySQL, SQLite, MongoDB
 - **Other:** Docker/Docker Compose, Selenium, Unity, Android Studio
