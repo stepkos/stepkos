@@ -1,12 +1,13 @@
-# Hello There - Jacob Here
+# Hello There
 
 <!--- ![General Kenobi](https://imgur.com/L1BvKWT.gif) --->
+**Jacob Here - Python focused developer 🐍**
 
-- 🐍 Python focused developer
-- 🎓 Master Student Applied Computer Science at the [Warsaw University of Technology](https://eng.pw.edu.pl/)
+- 🎓 Master Student in Applied Computer Science at the [Warsaw University of Technology](https://eng.pw.edu.pl/)
 - 🎓 Bachelor in Applied Computer Science at the [Wroclaw University of Science and Technology](https://pwr.edu.pl/en/)
-- 🎓 Graduate of Information Technology Technical School with the title of Programmer Technician
-- 📫 You can reach me by jakub.stepkowski.programming@gmail.com
+- 📚 Graduate of Information Technology Technical School with the title of Programmer Technician
+
+You can reach me by jakub.stepkowski.programming@gmail.com
 
 ## Tech Stack 🛠️
 
